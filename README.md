@@ -50,7 +50,7 @@ Links
 * Playground: https://sekumart.sekuripy.hr
 * Screenshots: https://github.com/sqlmapproject/sqlmap/wiki/Screenshots
 
-Translations
+Translations.
 ----
 
 * [Arabic](https://github.com/sqlmapproject/sqlmap/blob/master/doc/translations/README-ar-AR.md)
